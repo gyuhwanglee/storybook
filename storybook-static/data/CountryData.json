@@ -1,0 +1,2225 @@
+[
+  {
+    "value": 1,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "AF",
+    "continent": "Asia",
+    "label": "Afghanistan",
+    "dial": "+93"
+  },
+  {
+    "value": 2,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "AX",
+    "continent": "Europe",
+    "label": "+358) Åland Islands",
+    "dial": "+358"
+  },
+  {
+    "value": 3,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "AL",
+    "continent": "Europe",
+    "label": "Albania",
+    "dial": "+355"
+  },
+  {
+    "value": 4,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "DZ",
+    "continent": "Africa",
+    "label": "Algeria",
+    "dial": "+213"
+  },
+  {
+    "value": 5,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "AS",
+    "continent": "Oceania",
+    "label": "American Samoa",
+    "dial": "+1-684"
+  },
+  {
+    "value": 6,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "AD",
+    "continent": "Europe",
+    "label": "Andorra",
+    "dial": "+376"
+  },
+  {
+    "value": 7,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "AO",
+    "continent": "Africa",
+    "label": "Angola",
+    "dial": "+244"
+  },
+  {
+    "value": 8,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "AI",
+    "continent": "Americas",
+    "label": "Anguilla",
+    "dial": "+1-264"
+  },
+  {
+    "value": 9,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "AQ",
+    "continent": "Antarctica",
+    "label": "Antarctica",
+    "dial": "+672"
+  },
+  {
+    "value": 10,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "AG",
+    "continent": "Americas",
+    "label": "Antigua and Barbuda",
+    "dial": "+1-268"
+  },
+  {
+    "value": 11,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "AR",
+    "continent": "Americas",
+    "label": "Argentina",
+    "dial": "+54"
+  },
+  {
+    "value": 12,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "AM",
+    "continent": "Asia",
+    "label": "Armenia",
+    "dial": "+374"
+  },
+  {
+    "value": 13,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "AW",
+    "continent": "Americas",
+    "label": "Aruba",
+    "dial": "+297"
+  },
+  {
+    "value": 14,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "AU",
+    "continent": "Oceania",
+    "label": "Australia",
+    "dial": "+61"
+  },
+  {
+    "value": 15,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "AT",
+    "continent": "Europe",
+    "label": "Austria",
+    "dial": "+43"
+  },
+  {
+    "value": 16,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "AZ",
+    "continent": "Asia",
+    "label": "Azerbaijan",
+    "dial": "+994"
+  },
+  {
+    "value": 17,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BS",
+    "continent": "Americas",
+    "label": "Bahamas",
+    "dial": "+1-242"
+  },
+  {
+    "value": 18,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BH",
+    "continent": "Asia",
+    "label": "Bahrain",
+    "dial": "+973"
+  },
+  {
+    "value": 19,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BD",
+    "continent": "Asia",
+    "label": "Bangladesh",
+    "dial": "+880"
+  },
+  {
+    "value": 20,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BB",
+    "continent": "Americas",
+    "label": "Barbados",
+    "dial": "+1-246"
+  },
+  {
+    "value": 21,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BY",
+    "continent": "Europe",
+    "label": "Belarus",
+    "dial": "+375"
+  },
+  {
+    "value": 22,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BE",
+    "continent": "Europe",
+    "label": "Belgium",
+    "dial": "+32"
+  },
+  {
+    "value": 23,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BZ",
+    "continent": "Americas",
+    "label": "Belize",
+    "dial": "+501"
+  },
+  {
+    "value": 24,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BJ",
+    "continent": "Africa",
+    "label": "Benin",
+    "dial": "+229"
+  },
+  {
+    "value": 25,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BM",
+    "continent": "Americas",
+    "label": "Bermuda",
+    "dial": "+1-441"
+  },
+  {
+    "value": 26,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BT",
+    "continent": "Asia",
+    "label": "Bhutan",
+    "dial": "+975"
+  },
+  {
+    "value": 27,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BO",
+    "continent": "Americas",
+    "label": "Bolivia (Plurinational State of)",
+    "dial": "+591"
+  },
+  {
+    "value": 28,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BQ",
+    "continent": "Americas",
+    "label": "Bonaire, Sint Eustatius and Saba",
+    "dial": "+599"
+  },
+  {
+    "value": 29,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BA",
+    "continent": "Europe",
+    "label": "Bosnia and Herzegovina",
+    "dial": "+387"
+  },
+  {
+    "value": 30,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BW",
+    "continent": "Africa",
+    "label": "Botswana",
+    "dial": "+267"
+  },
+  {
+    "value": 31,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BV",
+    "continent": "Americas",
+    "label": "Bouvet Island",
+    "dial": "+55"
+  },
+  {
+    "value": 32,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BR",
+    "continent": "Americas",
+    "label": "Brazil",
+    "dial": "+55"
+  },
+  {
+    "value": 33,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "IO",
+    "continent": "Africa",
+    "label": "British Indian Ocean Territory",
+    "dial": "+246"
+  },
+  {
+    "value": 34,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BN",
+    "continent": "Asia",
+    "label": "Brunei Darussalam",
+    "dial": "+673"
+  },
+  {
+    "value": 35,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BG",
+    "continent": "Europe",
+    "label": "Bulgaria",
+    "dial": "+359"
+  },
+  {
+    "value": 36,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BF",
+    "continent": "Africa",
+    "label": "Burkina Faso",
+    "dial": "+226"
+  },
+  {
+    "value": 37,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BI",
+    "continent": "Africa",
+    "label": "Burundi",
+    "dial": "+257"
+  },
+  {
+    "value": 38,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CV",
+    "continent": "Africa",
+    "label": "Cabo Verde",
+    "dial": "+238"
+  },
+  {
+    "value": 39,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "KH",
+    "continent": "Asia",
+    "label": "Cambodia",
+    "dial": "+855"
+  },
+  {
+    "value": 40,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CM",
+    "continent": "Africa",
+    "label": "Cameroon",
+    "dial": "+237"
+  },
+  {
+    "value": 41,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CA",
+    "continent": "Americas",
+    "label": "Canada",
+    "dial": "+1"
+  },
+  {
+    "value": 42,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "KY",
+    "continent": "Americas",
+    "label": "Cayman Islands",
+    "dial": "+1-345"
+  },
+  {
+    "value": 43,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CF",
+    "continent": "Africa",
+    "label": "Central African Republic",
+    "dial": "+236"
+  },
+  {
+    "value": 44,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "TD",
+    "continent": "Africa",
+    "label": "Chad",
+    "dial": "+235"
+  },
+  {
+    "value": 45,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CL",
+    "continent": "Americas",
+    "label": "Chile",
+    "dial": "+56"
+  },
+  {
+    "value": 46,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CN",
+    "continent": "Asia",
+    "label": "China",
+    "dial": "+86"
+  },
+  {
+    "value": 47,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CX",
+    "continent": "Oceania",
+    "label": "Christmas Island",
+    "dial": "+53"
+  },
+  {
+    "value": 48,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CC",
+    "continent": "Oceania",
+    "label": "Cocos (Keeling) Islands",
+    "dial": "+61"
+  },
+  {
+    "value": 49,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CO",
+    "continent": "Americas",
+    "label": "Colombia",
+    "dial": "+57"
+  },
+  {
+    "value": 50,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "KM",
+    "continent": "Africa",
+    "label": "Comoros",
+    "dial": "+269"
+  },
+  {
+    "value": 51,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CG",
+    "continent": "Africa",
+    "label": "Congo",
+    "dial": "+242"
+  },
+  {
+    "value": 52,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CD",
+    "continent": "Africa",
+    "label": "Congo (Democratic Republic of the)",
+    "dial": "+243"
+  },
+  {
+    "value": 53,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CK",
+    "continent": "Oceania",
+    "label": "Cook Islands",
+    "dial": "+682"
+  },
+  {
+    "value": 54,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CR",
+    "continent": "Americas",
+    "label": "Costa Rica",
+    "dial": "+506"
+  },
+  {
+    "value": 55,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CI",
+    "continent": "Africa",
+    "label": "Côte d'Ivoire",
+    "dial": "+225"
+  },
+  {
+    "value": 56,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "HR",
+    "continent": "Europe",
+    "label": "Croatia",
+    "dial": "+385"
+  },
+  {
+    "value": 57,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CU",
+    "continent": "Americas",
+    "label": "Cuba",
+    "dial": "+53"
+  },
+  {
+    "value": 58,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CW",
+    "continent": "Americas",
+    "label": "Curaçao",
+    "dial": "+599"
+  },
+  {
+    "value": 59,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CY",
+    "continent": "Asia",
+    "label": "Cyprus",
+    "dial": "+357"
+  },
+  {
+    "value": 60,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CZ",
+    "continent": "Europe",
+    "label": "Czechia",
+    "dial": "+420"
+  },
+  {
+    "value": 61,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "DK",
+    "continent": "Europe",
+    "label": "Denmark",
+    "dial": "+45"
+  },
+  {
+    "value": 62,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "DJ",
+    "continent": "Africa",
+    "label": "Djibouti",
+    "dial": "+253"
+  },
+  {
+    "value": 63,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "DM",
+    "continent": "Americas",
+    "label": "Dominica",
+    "dial": "+1-767"
+  },
+  {
+    "value": 64,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "DO",
+    "continent": "Americas",
+    "label": "Dominican Republic",
+    "dial": "+1-809 and +1-829"
+  },
+  {
+    "value": 65,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "EC",
+    "continent": "Americas",
+    "label": "Ecuador",
+    "dial": "+593"
+  },
+  {
+    "value": 66,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "EG",
+    "continent": "Africa",
+    "label": "Egypt",
+    "dial": "+20"
+  },
+  {
+    "value": 67,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SV",
+    "continent": "Americas",
+    "label": "El Salvador",
+    "dial": "+503"
+  },
+  {
+    "value": 68,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "GQ",
+    "continent": "Africa",
+    "label": "Equatorial Guinea",
+    "dial": "+240"
+  },
+  {
+    "value": 69,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "ER",
+    "continent": "Africa",
+    "label": "Eritrea",
+    "dial": "+291"
+  },
+  {
+    "value": 70,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "EE",
+    "continent": "Europe",
+    "label": "Estonia",
+    "dial": "+372"
+  },
+  {
+    "value": 71,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SZ",
+    "continent": "Africa",
+    "label": "Eswatini",
+    "dial": "+268"
+  },
+  {
+    "value": 72,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "ET",
+    "continent": "Africa",
+    "label": "Ethiopia",
+    "dial": "+251"
+  },
+  {
+    "value": 73,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "FK",
+    "continent": "Americas",
+    "label": "Falkland Islands (Malvinas)",
+    "dial": "+500"
+  },
+  {
+    "value": 74,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "FO",
+    "continent": "Europe",
+    "label": "Faroe Islands",
+    "dial": "+298"
+  },
+  {
+    "value": 75,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "FJ",
+    "continent": "Oceania",
+    "label": "Fiji",
+    "dial": "+679"
+  },
+  {
+    "value": 76,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "FI",
+    "continent": "Europe",
+    "label": "Finland",
+    "dial": "+358"
+  },
+  {
+    "value": 77,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "FR",
+    "continent": "Europe",
+    "label": "France",
+    "dial": "+33"
+  },
+  {
+    "value": 78,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "GF",
+    "continent": "Americas",
+    "label": "French Guiana",
+    "dial": "+594"
+  },
+  {
+    "value": 79,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "PF",
+    "continent": "Oceania",
+    "label": "French Polynesia",
+    "dial": "+689"
+  },
+  {
+    "value": 80,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "TF",
+    "continent": "Africa",
+    "label": "French Southern Territories",
+    "dial": "+262"
+  },
+  {
+    "value": 81,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "GA",
+    "continent": "Africa",
+    "label": "Gabon",
+    "dial": "+241"
+  },
+  {
+    "value": 82,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "GM",
+    "continent": "Africa",
+    "label": "Gambia",
+    "dial": "+220"
+  },
+  {
+    "value": 83,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "GE",
+    "continent": "Asia",
+    "label": "Georgia",
+    "dial": "+995"
+  },
+  {
+    "value": 84,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "DE",
+    "continent": "Europe",
+    "label": "Germany",
+    "dial": "+49"
+  },
+  {
+    "value": 85,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "GH",
+    "continent": "Africa",
+    "label": "Ghana",
+    "dial": "+233"
+  },
+  {
+    "value": 86,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "GI",
+    "continent": "Europe",
+    "label": "Gibraltar",
+    "dial": "+350"
+  },
+  {
+    "value": 87,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "GR",
+    "continent": "Europe",
+    "label": "Greece",
+    "dial": "+30"
+  },
+  {
+    "value": 88,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "GL",
+    "continent": "Americas",
+    "label": "Greenland",
+    "dial": "+299"
+  },
+  {
+    "value": 89,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "GD",
+    "continent": "Americas",
+    "label": "Grenada",
+    "dial": "+1-473"
+  },
+  {
+    "value": 90,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "GP",
+    "continent": "Americas",
+    "label": "Guadeloupe",
+    "dial": "+590"
+  },
+  {
+    "value": 91,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "GU",
+    "continent": "Oceania",
+    "label": "Guam",
+    "dial": "+1-671"
+  },
+  {
+    "value": 92,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "GT",
+    "continent": "Americas",
+    "label": "Guatemala",
+    "dial": "+502"
+  },
+  {
+    "value": 93,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "GG",
+    "continent": "Europe",
+    "label": "Guernsey",
+    "dial": "+44"
+  },
+  {
+    "value": 94,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "GN",
+    "continent": "Africa",
+    "label": "Guinea",
+    "dial": "+224"
+  },
+  {
+    "value": 95,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "GW",
+    "continent": "Africa",
+    "label": "Guinea-Bissau",
+    "dial": "+245"
+  },
+  {
+    "value": 96,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "GY",
+    "continent": "Americas",
+    "label": "Guyana",
+    "dial": "+592"
+  },
+  {
+    "value": 97,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "HT",
+    "continent": "Americas",
+    "label": "Haiti",
+    "dial": "+509"
+  },
+  {
+    "value": 98,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "HM",
+    "continent": "Oceania",
+    "label": "Heard Island and McDonald Islands",
+    "dial": "+0"
+  },
+  {
+    "value": 99,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "VA",
+    "continent": "Europe",
+    "label": "Holy See",
+    "dial": "+418"
+  },
+  {
+    "value": 100,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "HN",
+    "continent": "Americas",
+    "label": "Honduras",
+    "dial": "+504"
+  },
+  {
+    "value": 101,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "HK",
+    "continent": "Asia",
+    "label": "Hong Kong",
+    "dial": "+852"
+  },
+  {
+    "value": 102,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "HU",
+    "continent": "Europe",
+    "label": "Hungary",
+    "dial": "+36"
+  },
+  {
+    "value": 103,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "IS",
+    "continent": "Europe",
+    "label": "Iceland",
+    "dial": "+354"
+  },
+  {
+    "value": 104,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "IN",
+    "continent": "Asia",
+    "label": "India",
+    "dial": "+91"
+  },
+  {
+    "value": 105,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "value",
+    "continent": "Asia",
+    "label": "Indonesia",
+    "dial": "+62"
+  },
+  {
+    "value": 106,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "IR",
+    "continent": "Asia",
+    "label": "Iran (Islamic Republic of)",
+    "dial": "+98"
+  },
+  {
+    "value": 107,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "IQ",
+    "continent": "Asia",
+    "label": "Iraq",
+    "dial": "+964"
+  },
+  {
+    "value": 108,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "IE",
+    "continent": "Europe",
+    "label": "Ireland",
+    "dial": "+353"
+  },
+  {
+    "value": 109,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "IM",
+    "continent": "Europe",
+    "label": "Isle of Man",
+    "dial": "+44"
+  },
+  {
+    "value": 110,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "IL",
+    "continent": "Asia",
+    "label": "Israel",
+    "dial": "+972"
+  },
+  {
+    "value": 111,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "IT",
+    "continent": "Europe",
+    "label": "Italy",
+    "dial": "+39"
+  },
+  {
+    "value": 112,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "JM",
+    "continent": "Americas",
+    "label": "Jamaica",
+    "dial": "+1-876"
+  },
+  {
+    "value": 113,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "JP",
+    "continent": "Asia",
+    "label": "Japan",
+    "dial": "+81"
+  },
+  {
+    "value": 114,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "JE",
+    "continent": "Europe",
+    "label": "Jersey",
+    "dial": "+44"
+  },
+  {
+    "value": 115,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "JO",
+    "continent": "Asia",
+    "label": "Jordan",
+    "dial": "+962"
+  },
+  {
+    "value": 116,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "KZ",
+    "continent": "Asia",
+    "label": "Kazakhstan",
+    "dial": "+7"
+  },
+  {
+    "value": 117,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "KE",
+    "continent": "Africa",
+    "label": "Kenya",
+    "dial": "+254"
+  },
+  {
+    "value": 118,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "KI",
+    "continent": "Oceania",
+    "label": "Kiribati",
+    "dial": "+686"
+  },
+  {
+    "value": 119,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "KP",
+    "continent": "Asia",
+    "label": "Korea (Democratic People's Republic of)",
+    "dial": "+850"
+  },
+  {
+    "value": 120,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "KR",
+    "continent": "Asia",
+    "label": "Korea (Republic of)",
+    "dial": "+82"
+  },
+  {
+    "value": 121,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "KW",
+    "continent": "Asia",
+    "label": "Kuwait",
+    "dial": "+965"
+  },
+  {
+    "value": 122,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "KG",
+    "continent": "Asia",
+    "label": "Kyrgyzstan",
+    "dial": "+996"
+  },
+  {
+    "value": 123,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "LA",
+    "continent": "Asia",
+    "label": "Lao People's Democratic Republic",
+    "dial": "+856"
+  },
+  {
+    "value": 124,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "LV",
+    "continent": "Europe",
+    "label": "Latvia",
+    "dial": "+371"
+  },
+  {
+    "value": 125,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "LB",
+    "continent": "Asia",
+    "label": "Lebanon",
+    "dial": "+961"
+  },
+  {
+    "value": 126,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "LS",
+    "continent": "Africa",
+    "label": "Lesotho",
+    "dial": "+266"
+  },
+  {
+    "value": 127,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "LR",
+    "continent": "Africa",
+    "label": "Liberia",
+    "dial": "+231"
+  },
+  {
+    "value": 128,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "LY",
+    "continent": "Africa",
+    "label": "Libya",
+    "dial": "+218"
+  },
+  {
+    "value": 129,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "LI",
+    "continent": "Europe",
+    "label": "Liechtenstein",
+    "dial": "+423"
+  },
+  {
+    "value": 130,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "LT",
+    "continent": "Europe",
+    "label": "Lithuania",
+    "dial": "+370"
+  },
+  {
+    "value": 131,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "LU",
+    "continent": "Europe",
+    "label": "Luxembourg",
+    "dial": "+352"
+  },
+  {
+    "value": 132,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MO",
+    "continent": "Asia",
+    "label": "Macao",
+    "dial": "+853"
+  },
+  {
+    "value": 133,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MK",
+    "continent": "Europe",
+    "label": "Macedonia (the former Yugoslav Republic of)",
+    "dial": "+389"
+  },
+  {
+    "value": 134,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MG",
+    "continent": "Africa",
+    "label": "Madagascar",
+    "dial": "+261"
+  },
+  {
+    "value": 135,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MW",
+    "continent": "Africa",
+    "label": "Malawi",
+    "dial": "+265"
+  },
+  {
+    "value": 136,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MY",
+    "continent": "Asia",
+    "label": "Malaysia",
+    "dial": "+60"
+  },
+  {
+    "value": 137,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MV",
+    "continent": "Asia",
+    "label": "Maldives",
+    "dial": "+960"
+  },
+  {
+    "value": 138,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "ML",
+    "continent": "Africa",
+    "label": "Mali",
+    "dial": "+223"
+  },
+  {
+    "value": 139,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MT",
+    "continent": "Europe",
+    "label": "Malta",
+    "dial": "+356"
+  },
+  {
+    "value": 140,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MH",
+    "continent": "Oceania",
+    "label": "Marshall Islands",
+    "dial": "+692"
+  },
+  {
+    "value": 141,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MQ",
+    "continent": "Americas",
+    "label": "Martinique",
+    "dial": "+596"
+  },
+  {
+    "value": 142,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MR",
+    "continent": "Africa",
+    "label": "Mauritania",
+    "dial": "+222"
+  },
+  {
+    "value": 143,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MU",
+    "continent": "Africa",
+    "label": "Mauritius",
+    "dial": "+230"
+  },
+  {
+    "value": 144,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "YT",
+    "continent": "Africa",
+    "label": "Mayotte",
+    "dial": "+269"
+  },
+  {
+    "value": 145,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MX",
+    "continent": "Americas",
+    "label": "Mexico",
+    "dial": "+52"
+  },
+  {
+    "value": 146,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "FM",
+    "continent": "Oceania",
+    "label": "Micronesia (Federated States of)",
+    "dial": "+691"
+  },
+  {
+    "value": 147,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MD",
+    "continent": "Europe",
+    "label": "Moldova (Republic of)",
+    "dial": "+373"
+  },
+  {
+    "value": 148,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MC",
+    "continent": "Europe",
+    "label": "Monaco",
+    "dial": "+377"
+  },
+  {
+    "value": 149,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MN",
+    "continent": "Asia",
+    "label": "Mongolia",
+    "dial": "+976"
+  },
+  {
+    "value": 150,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "ME",
+    "continent": "Europe",
+    "label": "Montenegro",
+    "dial": "+382"
+  },
+  {
+    "value": 151,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MS",
+    "continent": "Americas",
+    "label": "Montserrat",
+    "dial": "+1-664"
+  },
+  {
+    "value": 152,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MA",
+    "continent": "Africa",
+    "label": "Morocco",
+    "dial": "+212"
+  },
+  {
+    "value": 153,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MZ",
+    "continent": "Africa",
+    "label": "Mozambique",
+    "dial": "+258"
+  },
+  {
+    "value": 154,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MM",
+    "continent": "Asia",
+    "label": "Myanmar",
+    "dial": "+95"
+  },
+  {
+    "value": 155,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "NA",
+    "continent": "Africa",
+    "label": "Namibia",
+    "dial": "+264"
+  },
+  {
+    "value": 156,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "NR",
+    "continent": "Oceania",
+    "label": "Nauru",
+    "dial": "+674"
+  },
+  {
+    "value": 157,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "NP",
+    "continent": "Asia",
+    "label": "Nepal",
+    "dial": "+977"
+  },
+  {
+    "value": 158,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "NL",
+    "continent": "Europe",
+    "label": "Netherlands",
+    "dial": "+31"
+  },
+  {
+    "value": 159,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "NC",
+    "continent": "Oceania",
+    "label": "New Caledonia",
+    "dial": "+687"
+  },
+  {
+    "value": 160,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "NZ",
+    "continent": "Oceania",
+    "label": "New Zealand",
+    "dial": "+64"
+  },
+  {
+    "value": 161,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "NI",
+    "continent": "Americas",
+    "label": "Nicaragua",
+    "dial": "+505"
+  },
+  {
+    "value": 162,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "NE",
+    "continent": "Africa",
+    "label": "Niger",
+    "dial": "+227"
+  },
+  {
+    "value": 163,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "NG",
+    "continent": "Africa",
+    "label": "Nigeria",
+    "dial": "+234"
+  },
+  {
+    "value": 164,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "NU",
+    "continent": "Oceania",
+    "label": "Niue",
+    "dial": "+683"
+  },
+  {
+    "value": 165,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "NF",
+    "continent": "Oceania",
+    "label": "Norfolk Island",
+    "dial": "+672"
+  },
+  {
+    "value": 166,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MP",
+    "continent": "Oceania",
+    "label": "Northern Mariana Islands",
+    "dial": "+1-670"
+  },
+  {
+    "value": 167,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "NO",
+    "continent": "Europe",
+    "label": "Norway",
+    "dial": "+47"
+  },
+  {
+    "value": 168,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "OM",
+    "continent": "Asia",
+    "label": "Oman",
+    "dial": "+968"
+  },
+  {
+    "value": 169,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "PK",
+    "continent": "Asia",
+    "label": "Pakistan",
+    "dial": "+92"
+  },
+  {
+    "value": 170,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "PW",
+    "continent": "Oceania",
+    "label": "Palau",
+    "dial": "+680"
+  },
+  {
+    "value": 171,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "PS",
+    "continent": "Asia",
+    "label": "Palestine, State of",
+    "dial": "+970"
+  },
+  {
+    "value": 172,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "PA",
+    "continent": "Americas",
+    "label": "Panama",
+    "dial": "+507"
+  },
+  {
+    "value": 173,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "PG",
+    "continent": "Oceania",
+    "label": "Papua New Guinea",
+    "dial": "+675"
+  },
+  {
+    "value": 174,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "PY",
+    "continent": "Americas",
+    "label": "Paraguay",
+    "dial": "+595"
+  },
+  {
+    "value": 175,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "PE",
+    "continent": "Americas",
+    "label": "Peru",
+    "dial": "+51"
+  },
+  {
+    "value": 176,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "PH",
+    "continent": "Asia",
+    "label": "Philippines",
+    "dial": "+63"
+  },
+  {
+    "value": 177,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "PN",
+    "continent": "Oceania",
+    "label": "Pitcairn",
+    "dial": "+64"
+  },
+  {
+    "value": 178,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "PL",
+    "continent": "Europe",
+    "label": "Poland",
+    "dial": "+48"
+  },
+  {
+    "value": 179,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "PT",
+    "continent": "Europe",
+    "label": "Portugal",
+    "dial": "+351"
+  },
+  {
+    "value": 180,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "PR",
+    "continent": "Americas",
+    "label": "Puerto Rico",
+    "dial": "+1-787 or +1-939"
+  },
+  {
+    "value": 181,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "QA",
+    "continent": "Asia",
+    "label": "Qatar",
+    "dial": "+974"
+  },
+  {
+    "value": 182,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "RE",
+    "continent": "Africa",
+    "label": "Réunion",
+    "dial": "+262"
+  },
+  {
+    "value": 183,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "RO",
+    "continent": "Europe",
+    "label": "Romania",
+    "dial": "+40"
+  },
+  {
+    "value": 184,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "RU",
+    "continent": "Europe",
+    "label": "Russian Federation",
+    "dial": "+7"
+  },
+  {
+    "value": 185,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "RW",
+    "continent": "Africa",
+    "label": "Rwanda",
+    "dial": "+250"
+  },
+  {
+    "value": 186,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "BL",
+    "continent": "Americas",
+    "label": "Saint Barthélemy",
+    "dial": "+590"
+  },
+  {
+    "value": 187,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SH",
+    "continent": "Africa",
+    "label": "Saint Helena, Ascension and Tristan da Cunha",
+    "dial": "+290"
+  },
+  {
+    "value": 188,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "KN",
+    "continent": "Americas",
+    "label": "Saint Kitts and Nevis",
+    "dial": "+1-869"
+  },
+  {
+    "value": 189,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "LC",
+    "continent": "Americas",
+    "label": "Saint Lucia",
+    "dial": "+1-758"
+  },
+  {
+    "value": 190,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "MF",
+    "continent": "Americas",
+    "label": "Saint Martin (French part)",
+    "dial": "+590"
+  },
+  {
+    "value": 191,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "PM",
+    "continent": "Americas",
+    "label": "Saint Pierre and Miquelon",
+    "dial": "+508"
+  },
+  {
+    "value": 192,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "VC",
+    "continent": "Americas",
+    "label": "Saint Vincent and the Grenadines",
+    "dial": "+1-784"
+  },
+  {
+    "value": 193,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "WS",
+    "continent": "Oceania",
+    "label": "Samoa",
+    "dial": "+685"
+  },
+  {
+    "value": 194,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SM",
+    "continent": "Europe",
+    "label": "San Marino",
+    "dial": "+378"
+  },
+  {
+    "value": 195,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "ST",
+    "continent": "Africa",
+    "label": "Sao Tome and Principe",
+    "dial": "+239"
+  },
+  {
+    "value": 196,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SA",
+    "continent": "Asia",
+    "label": "Saudi Arabia",
+    "dial": "+966"
+  },
+  {
+    "value": 197,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SN",
+    "continent": "Africa",
+    "label": "Senegal",
+    "dial": "+221"
+  },
+  {
+    "value": 198,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "RS",
+    "continent": "Europe",
+    "label": "Serbia",
+    "dial": "+381"
+  },
+  {
+    "value": 199,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SC",
+    "continent": "Africa",
+    "label": "Seychelles",
+    "dial": "+248"
+  },
+  {
+    "value": 200,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SL",
+    "continent": "Africa",
+    "label": "Sierra Leone",
+    "dial": "+232"
+  },
+  {
+    "value": 201,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SG",
+    "continent": "Asia",
+    "label": "Singapore",
+    "dial": "+65"
+  },
+  {
+    "value": 202,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SX",
+    "continent": "Americas",
+    "label": "Sint Maarten (Dutch part)",
+    "dial": "+1"
+  },
+  {
+    "value": 203,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SK",
+    "continent": "Europe",
+    "label": "Slovakia",
+    "dial": "+421"
+  },
+  {
+    "value": 204,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SI",
+    "continent": "Europe",
+    "label": "Slovenia",
+    "dial": "+386"
+  },
+  {
+    "value": 205,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SB",
+    "continent": "Oceania",
+    "label": "Solomon Islands",
+    "dial": "+677"
+  },
+  {
+    "value": 206,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SO",
+    "continent": "Africa",
+    "label": "Somalia",
+    "dial": "+252"
+  },
+  {
+    "value": 207,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "ZA",
+    "continent": "Africa",
+    "label": "South Africa",
+    "dial": "+27"
+  },
+  {
+    "value": 208,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SS",
+    "continent": "Africa",
+    "label": "South Sudan",
+    "dial": "+211"
+  },
+  {
+    "value": 209,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "ES",
+    "continent": "Europe",
+    "label": "Spain",
+    "dial": "+34"
+  },
+  {
+    "value": 210,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "LK",
+    "continent": "Asia",
+    "label": "Sri Lanka",
+    "dial": "+94"
+  },
+  {
+    "value": 211,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SD",
+    "continent": "Africa",
+    "label": "Sudan",
+    "dial": "+249"
+  },
+  {
+    "value": 212,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SR",
+    "continent": "Americas",
+    "label": "Surilabel",
+    "dial": "+597"
+  },
+  {
+    "value": 213,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SE",
+    "continent": "Europe",
+    "label": "Sweden",
+    "dial": "+46"
+  },
+  {
+    "value": 214,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "CH",
+    "continent": "Europe",
+    "label": "Switzerland",
+    "dial": "+41"
+  },
+  {
+    "value": 215,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "SY",
+    "continent": "Asia",
+    "label": "Syrian Arab Republic",
+    "dial": "+963"
+  },
+  {
+    "value": 216,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "TW",
+    "continent": "Asia",
+    "label": "Taiwan, Province of China",
+    "dial": "+886"
+  },
+  {
+    "value": 217,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "TJ",
+    "continent": "Asia",
+    "label": "Tajikistan",
+    "dial": "+992"
+  },
+  {
+    "value": 218,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "TZ",
+    "continent": "Africa",
+    "label": "Tanzania, United Republic of",
+    "dial": "+255"
+  },
+  {
+    "value": 219,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "TH",
+    "continent": "Asia",
+    "label": "Thailand",
+    "dial": "+66"
+  },
+  {
+    "value": 220,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "TL",
+    "continent": "Asia",
+    "label": "Timor-Leste",
+    "dial": "+670"
+  },
+  {
+    "value": 221,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "TG",
+    "continent": "Africa",
+    "label": "Togo",
+    "dial": "+228"
+  },
+  {
+    "value": 222,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "TK",
+    "continent": "Oceania",
+    "label": "Tokelau",
+    "dial": "+690"
+  },
+  {
+    "value": 223,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "TO",
+    "continent": "Oceania",
+    "label": "Tonga",
+    "dial": "+676"
+  },
+  {
+    "value": 224,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "TT",
+    "continent": "Americas",
+    "label": "Trinvaluead and Tobago",
+    "dial": "+1-868"
+  },
+  {
+    "value": 225,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "TN",
+    "continent": "Africa",
+    "label": "Tunisia",
+    "dial": "+216"
+  },
+  {
+    "value": 226,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "TR",
+    "continent": "Asia",
+    "label": "Turkey",
+    "dial": "+90"
+  },
+  {
+    "value": 227,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "TM",
+    "continent": "Asia",
+    "label": "Turkmenistan",
+    "dial": "+993"
+  },
+  {
+    "value": 228,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "TC",
+    "continent": "Americas",
+    "label": "Turks and Caicos Islands",
+    "dial": "+1-649"
+  },
+  {
+    "value": 229,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "TV",
+    "continent": "Oceania",
+    "label": "Tuvalu",
+    "dial": "+688"
+  },
+  {
+    "value": 230,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "UG",
+    "continent": "Africa",
+    "label": "Uganda",
+    "dial": "+256"
+  },
+  {
+    "value": 231,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "UA",
+    "continent": "Europe",
+    "label": "Ukraine",
+    "dial": "+380"
+  },
+  {
+    "value": 232,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "AE",
+    "continent": "Asia",
+    "label": "United Arab Emirates",
+    "dial": "+971"
+  },
+  {
+    "value": 233,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "GB",
+    "continent": "Europe",
+    "label": "United Kingdom of Great Britain and Northern Ireland",
+    "dial": "+44"
+  },
+  {
+    "value": 234,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "US",
+    "continent": "Americas",
+    "label": "United States of America",
+    "dial": "+1"
+  },
+  {
+    "value": 235,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "UM",
+    "continent": "Oceania",
+    "label": "United States Minor Outlying Islands",
+    "dial": ""
+  },
+  {
+    "value": 236,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "UY",
+    "continent": "Americas",
+    "label": "Uruguay",
+    "dial": "+598"
+  },
+  {
+    "value": 237,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "UZ",
+    "continent": "Asia",
+    "label": "Uzbekistan",
+    "dial": "+998"
+  },
+  {
+    "value": 238,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "VU",
+    "continent": "Oceania",
+    "label": "Vanuatu",
+    "dial": "+678"
+  },
+  {
+    "value": 239,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "VE",
+    "continent": "Americas",
+    "label": "Venezuela (Bolivarian Republic of)",
+    "dial": "+58"
+  },
+  {
+    "value": 240,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "VN",
+    "continent": "Asia",
+    "label": "Viet Nam",
+    "dial": "+84"
+  },
+  {
+    "value": 241,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "VG",
+    "continent": "Americas",
+    "label": "Virgin Islands (British)",
+    "dial": "+1"
+  },
+  {
+    "value": 242,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "VI",
+    "continent": "Americas",
+    "label": "Virgin Islands (U.S.)",
+    "dial": "+1-284"
+  },
+  {
+    "value": 243,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "WF",
+    "continent": "Oceania",
+    "label": "Wallis and Futuna",
+    "dial": "+681"
+  },
+  {
+    "value": 244,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "EH",
+    "continent": "Africa",
+    "label": "Western Sahara",
+    "dial": "+212"
+  },
+  {
+    "value": 245,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "YE",
+    "continent": "Asia",
+    "label": "Yemen",
+    "dial": "+967"
+  },
+  {
+    "value": 246,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "ZM",
+    "continent": "Africa",
+    "label": "Zambia",
+    "dial": "+260"
+  },
+  {
+    "value": 247,
+    "created_at": "2020-07-24 01:45:40.913073+00",
+    "updated_at": "2020-07-24 01:45:40.913073+00",
+    "code": "ZW",
+    "continent": "Africa",
+    "label": "Zimbabwe",
+    "dial": "+263"
+  }
+]

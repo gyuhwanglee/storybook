@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "내 정보",
+    "subMenu": [
+      {
+        "id": 1,
+        "subTitle": "내 프로필 정보",
+        "path": "/staff/detail/me"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "내 회사 정보",
+    "subMenu": [
+      {
+        "id": 2,
+        "subTitle": "회사 정보",
+        "path": "/company"
+      },
+      {
+        "id": 3,
+        "subTitle": "디비전",
+        "path": ""
+      },
+      {
+        "id": 4,
+        "subTitle": "스태프",
+        "path": "/staff/list"
+      },
+      {
+        "id": 5,
+        "subTitle": "API key",
+        "path": ""
+      }
+    ]
+  }
+]
